@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test {
+public class not_ortalamasi_java {
     public static void main(String[] args) {
         float a,b,c,d;
         float toplama,ortalama;
@@ -21,5 +21,10 @@ public class test {
         ortalama=toplama/4;
         System.out.println("Notlarin ortlamasi:");
         System.out.print(ortalama);
+        boolean kosul = ortalama >= 60;
+        String gectiMi = kosul ? "Sınıfı Geçti" : "Sınıfta Kaldı";
+        System.out.println(gectiMi);
+
+
     }
 }
