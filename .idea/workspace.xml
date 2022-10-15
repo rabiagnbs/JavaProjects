@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf234a67-3ec0-4a1c-9892-bc394e885482" name="Changes" comment="java_projelerim">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/daire_alani.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/üçgen.java" afterDir="false" />
+    <list default="true" id="bf234a67-3ec0-4a1c-9892-bc394e885482" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/vucut_kutle_indeksi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/not_ortalamasi_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/not_ortalamasi_java.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.daire_alani">
+  <component name="RunManager" selected="Application.vucut_kutle_indeksi">
     <configuration name="daire_alani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="daire_alani" />
       <module name="javarabia" />
@@ -68,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="vucut_kutle_indeksi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vucut_kutle_indeksi" />
+      <module name="javarabia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="üçgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="üçgen" />
       <module name="javarabia" />
@@ -77,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.vucut_kutle_indeksi" />
         <item itemvalue="Application.daire_alani" />
         <item itemvalue="Application.üçgen" />
         <item itemvalue="Application.kdv" />
@@ -100,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665769328154</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java_projelerim">
+      <created>1665816903081</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665816903081</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
