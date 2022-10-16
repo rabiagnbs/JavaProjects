@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf234a67-3ec0-4a1c-9892-bc394e885482" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hackerrank_bit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hesap_makinesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kosul_ifadeleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kullanici_bilgileri.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.hesap_makinesi">
+  <component name="RunManager" selected="Application.kullanici_bilgileri">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="javarabia" />
@@ -67,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="kullanici_bilgileri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kullanici_bilgileri" />
+      <module name="javarabia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="manav_kasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="manav_kasa" />
       <module name="javarabia" />
@@ -74,20 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vucut_kutle_indeksi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vucut_kutle_indeksi" />
-      <module name="javarabia" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.kullanici_bilgileri" />
         <item itemvalue="Application.hesap_makinesi" />
         <item itemvalue="Application.kosul_ifadeleri" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.manav_kasa" />
-        <item itemvalue="Application.vucut_kutle_indeksi" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665818541773</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="java_projelerim">
+      <created>1665940321332</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665940321332</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
