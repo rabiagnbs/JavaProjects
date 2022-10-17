@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf234a67-3ec0-4a1c-9892-bc394e885482" name="Changes" comment="java_projelerim">
-      <change afterPath="$PROJECT_DIR$/src/burclar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sinifi_gecme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.burclar">
+  <component name="RunManager" selected="Application.sinifi_gecme">
     <configuration name="burclar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="burclar" />
       <module name="javarabia" />
@@ -81,10 +81,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sinifi_gecme" />
         <item itemvalue="Application.burclar" />
         <item itemvalue="Application.siralama" />
         <item itemvalue="Application.hava" />
-        <item itemvalue="Application.sinifi_gecme" />
         <item itemvalue="Application.kullanici_bilgileri" />
       </list>
     </recent_temporary>
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666021182854</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="java_projelerim">
+      <created>1666024297224</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666024297224</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
