@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf234a67-3ec0-4a1c-9892-bc394e885482" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/siralama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.hava">
+  <component name="RunManager" selected="Application.siralama">
     <configuration name="hava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hava" />
       <module name="javarabia" />
@@ -53,13 +53,6 @@
     </configuration>
     <configuration name="hesap_makinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hesap_makinesi" />
-      <module name="javarabia" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="kosul_ifadeleri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kosul_ifadeleri" />
       <module name="javarabia" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,13 +72,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="siralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="siralama" />
+      <module name="javarabia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.siralama" />
         <item itemvalue="Application.hava" />
         <item itemvalue="Application.sinifi_gecme" />
         <item itemvalue="Application.kullanici_bilgileri" />
         <item itemvalue="Application.hesap_makinesi" />
-        <item itemvalue="Application.kosul_ifadeleri" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666018089865</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="java_projelerim">
+      <created>1666020227838</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666020227838</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
