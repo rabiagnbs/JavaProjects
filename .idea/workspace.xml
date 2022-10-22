@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf234a67-3ec0-4a1c-9892-bc394e885482" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bolunen_sayilarin_ortalamasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orta_nokta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cift_ve_dordun_katlarini_toplama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.bolunen_sayilarin_ortalamasi">
+  <component name="RunManager" selected="Application.cift_ve_dordun_katlarini_toplama">
     <configuration name="artik_yil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="artik_yil" />
       <module name="javarabia" />
@@ -66,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cin_zodyagi_burcu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cin_zodyagi_burcu" />
+    <configuration name="cift_ve_dordun_katlarini_toplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cift_ve_dordun_katlarini_toplama" />
       <module name="javarabia" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cift_ve_dordun_katlarini_toplama" />
         <item itemvalue="Application.bolunen_sayilarin_ortalamasi" />
         <item itemvalue="Application.cc" />
         <item itemvalue="Application.orta_nokta" />
         <item itemvalue="Application.artik_yil" />
-        <item itemvalue="Application.cin_zodyagi_burcu" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666171234684</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="java_projelerim">
+      <created>1666427052588</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666427052589</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
