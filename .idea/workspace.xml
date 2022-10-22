@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf234a67-3ec0-4a1c-9892-bc394e885482" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/artik_yil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bolunen_sayilarin_ortalamasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orta_nokta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.artik_yil">
+  <component name="RunManager" selected="Application.bolunen_sayilarin_ortalamasi">
     <configuration name="artik_yil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="artik_yil" />
       <module name="javarabia" />
@@ -51,8 +52,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="burclar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="burclar" />
+    <configuration name="bolunen_sayilarin_ortalamasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bolunen_sayilarin_ortalamasi" />
+      <module name="javarabia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cc" />
       <module name="javarabia" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,15 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sinifi_gecme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sinifi_gecme" />
-      <module name="javarabia" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ucak_bileti_fiyati_hesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ucak_bileti_fiyati_hesaplama" />
+    <configuration name="orta_nokta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="orta_nokta" />
       <module name="javarabia" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bolunen_sayilarin_ortalamasi" />
+        <item itemvalue="Application.cc" />
+        <item itemvalue="Application.orta_nokta" />
         <item itemvalue="Application.artik_yil" />
         <item itemvalue="Application.cin_zodyagi_burcu" />
-        <item itemvalue="Application.ucak_bileti_fiyati_hesaplama" />
-        <item itemvalue="Application.sinifi_gecme" />
-        <item itemvalue="Application.burclar" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666170258795</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="java_projelerim">
+      <created>1666171234684</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666171234684</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
