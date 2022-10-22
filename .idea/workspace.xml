@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf234a67-3ec0-4a1c-9892-bc394e885482" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cift_ve_dordun_katlarini_toplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dort_ve_besin_kuvvetlerini_yazdirma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,14 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.cift_ve_dordun_katlarini_toplama">
-    <configuration name="artik_yil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="artik_yil" />
-      <module name="javarabia" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.dort_ve_besin_kuvvetlerini_yazdirma">
     <configuration name="bolunen_sayilarin_ortalamasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bolunen_sayilarin_ortalamasi" />
       <module name="javarabia" />
@@ -72,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="dort_ve_besin_kuvvetlerini_yazdirma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dort_ve_besin_kuvvetlerini_yazdirma" />
+      <module name="javarabia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="orta_nokta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="orta_nokta" />
       <module name="javarabia" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dort_ve_besin_kuvvetlerini_yazdirma" />
         <item itemvalue="Application.cift_ve_dordun_katlarini_toplama" />
         <item itemvalue="Application.bolunen_sayilarin_ortalamasi" />
         <item itemvalue="Application.cc" />
         <item itemvalue="Application.orta_nokta" />
-        <item itemvalue="Application.artik_yil" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666427052589</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="java_projelerim">
+      <created>1666429091376</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666429091376</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
