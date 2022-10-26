@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf234a67-3ec0-4a1c-9892-bc394e885482" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/uslusayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sayinin_basamak_sayilarini_toplayan_program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,14 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.uslusayi">
-    <configuration name="bolunen_sayilarin_ortalamasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bolunen_sayilarin_ortalamasi" />
-      <module name="javarabia" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.sayinin_basamak_sayilarini_toplayan_program">
     <configuration name="cift_ve_dordun_katlarini_toplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cift_ve_dordun_katlarini_toplama" />
       <module name="javarabia" />
@@ -72,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sayinin_basamak_sayilarini_toplayan_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sayinin_basamak_sayilarini_toplayan_program" />
+      <module name="javarabia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="uslusayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="uslusayi" />
       <module name="javarabia" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sayinin_basamak_sayilarini_toplayan_program" />
         <item itemvalue="Application.uslusayi" />
         <item itemvalue="Application.kombinasyon" />
         <item itemvalue="Application.dort_ve_besin_kuvvetlerini_yazdirma" />
         <item itemvalue="Application.cift_ve_dordun_katlarini_toplama" />
-        <item itemvalue="Application.bolunen_sayilarin_ortalamasi" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666802448663</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="java_projelerim">
+      <created>1666803241424</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1666803241424</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
