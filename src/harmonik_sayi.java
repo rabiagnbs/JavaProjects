@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class harmonil_sayi {
+public class harmonik_sayi {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         int sayi;

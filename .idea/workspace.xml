@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.harmonil_sayi">
+  <component name="RunManager" selected="Application.harmonik_sayi">
     <configuration name="dort_ve_besin_kuvvetlerini_yazdirma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dort_ve_besin_kuvvetlerini_yazdirma" />
       <module name="javarabia" />
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="harmonil_sayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="harmonil_sayi" />
+    <configuration name="harmonik_sayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="harmonik_sayi" />
       <module name="javarabia" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,7 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.harmonil_sayi" />
+        <item itemvalue="Application.harmonik_sayi" />
         <item itemvalue="Application.sayinin_basamak_sayilarini_toplayan_program" />
         <item itemvalue="Application.uslusayi" />
         <item itemvalue="Application.kombinasyon" />
