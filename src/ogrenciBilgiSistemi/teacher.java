@@ -1,3 +1,5 @@
+package ogrenciBilgiSistemi;
+
 public class teacher {
     String name;
     String mpno;

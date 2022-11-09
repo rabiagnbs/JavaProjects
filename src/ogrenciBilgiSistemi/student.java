@@ -1,3 +1,5 @@
+package ogrenciBilgiSistemi;
+
 public class student {
     course c1;
     course c2;
@@ -8,7 +10,7 @@ public class student {
     double avarage;
     boolean isPass=false;
 
-    student(String name,String stuNo,String classes,course c1, course c2, course c3){
+    student(String name, String stuNo, String classes, course c1, course c2, course c3){
         this.name=name;
         this.stuNo=stuNo;
         this.classes=classes;
