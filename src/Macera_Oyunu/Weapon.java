@@ -12,16 +12,23 @@ public class Weapon {
         this.damage = damage;
         this.price = price;
     }
-    public Weapon[] weapons(){
+    public static Weapon[] weapons(){
         Weapon[] weaponlist=new Weapon[3];
 
-        weaponlist[0]=new Weapon("Tabanca",1,7,25);
-        weaponlist[1]=new Weapon("Kılıç",2,3,35);
-        weaponlist[2]=new Weapon("Tüfek",3,7,45);
+        weaponlist[0]=new Weapon("Tabanca: ",1,7,5);
+        weaponlist[1]=new Weapon("Kılıç: ",2,3,7);
+        weaponlist[2]=new Weapon("Tüfek: ",3,7,9);
 
         return weaponlist;
     }
-
+    public static Weapon getweaponobjById(int id){
+        for(Weapon w: Weapon.weapons()){
+            if(w.getId()==id){
+                return w;
+            }
+        }
+        return null;
+    }
     public int getId() {
         return id;
     }

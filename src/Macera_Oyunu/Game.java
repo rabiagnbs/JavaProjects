@@ -13,6 +13,7 @@ public class Game {
         System.out.println("Sayın "+player.getName()+" Bu karanlık ve sisli adaya hoşgeldiniz. Burada yaşananların hepsi gerçek");
         player.selectChar();
         while(true){
+            player.printinfo();
             System.out.println("Gitmek istediginiz bolgeyi seciniz");
             System.out.println("Bölgeler");
             System.out.println("1-)Güvenli Ev" +

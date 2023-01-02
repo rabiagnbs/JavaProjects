@@ -5,8 +5,9 @@ public abstract class Location {
     private String LocationName;
      public  Scanner input=new Scanner(System.in);
 
-    public Location(Player player) {
+    public Location(Player player,String LocationName) {
         this.player = player;
+        this.LocationName=LocationName;
 
     }
 

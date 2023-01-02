@@ -2,7 +2,7 @@ package Macera_Oyunu;
 
 public class SafeLocation extends NormalLocation{
     public SafeLocation(Player player) {
-        super(player);
+        super(player,"Güvenli evdesiniz");
     }
 
     @Override

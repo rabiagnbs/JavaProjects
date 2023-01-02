@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf234a67-3ec0-4a1c-9892-bc394e885482" name="Changes" comment="java_projelerim">
-      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/GameChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Knigth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/NormalLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/SafeLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Samurai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/ToolStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Weapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaçQuizi/MAC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaçQuizi/SporDallari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaçQuizi/TeamClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaçQuizi/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ODEV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutionn.java" afterDir="false" />
+    <list default="true" id="bf234a67-3ec0-4a1c-9892-bc394e885482" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LabOrnek/Goril.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabOrnek/Hayvan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabOrnek/IEvcilHayvan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabOrnek/Kedi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabOrnek/Kopek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabOrnek/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Armor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Inventory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Macera_Oyunu/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Macera_Oyunu/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Macera_Oyunu/NormalLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Macera_Oyunu/NormalLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Macera_Oyunu/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Macera_Oyunu/SafeLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Macera_Oyunu/SafeLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Macera_Oyunu/ToolStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Macera_Oyunu/ToolStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Macera_Oyunu/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Macera_Oyunu/Weapon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -77,7 +75,7 @@
       <recent name="RABİA_GUNBAS_ODEV" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solutionn">
+  <component name="RunManager" selected="Application.main">
     <configuration name="Macera_Oyunu.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Macera_Oyunu.Main" />
       <module name="javarabia" />
@@ -111,19 +109,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RABİA_GUNBAS_ODEV.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RABİA_GUNBAS_ODEV.Main" />
-      <module name="javarabia" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RABİA_GUNBAS_ODEV.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solutionn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solutionn" />
       <module name="javarabia" />
@@ -131,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabOrnek.main" />
+      <module name="javarabia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LabOrnek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Macera_Oyunu.Main" />
         <item itemvalue="Application.Solutionn" />
         <item itemvalue="Application.Mainn" />
         <item itemvalue="Application.MaçQuizi.main" />
-        <item itemvalue="Application.Macera_Oyunu.Main" />
-        <item itemvalue="Application.RABİA_GUNBAS_ODEV.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667995007346</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="java_projelerim">
+      <created>1672147675466</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1672147675466</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
