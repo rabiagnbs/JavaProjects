@@ -1,35 +1,24 @@
 package magaza;
 
-public class mudur {
-    private String ad;
-    private String soyad;
-    private int maas;
-
+public class mudur extends calisan {
+    private final static int CIPLAK_MAASI = 2000;
+    private final static int PRIM_LIMITI = 20000;
+    private int satis;
     public mudur(String ad, String soyad){
-        this.ad=ad;
-        this.soyad=soyad;
-
+        super(ad,soyad);
     }
-    public String getAd(){
-        return this.ad;
+    public void setToplamSatis(int satis) {
+        this.satis = satis;
     }
-    public void setAd(String ad){
-        this.ad=ad;
+    public int MaasHesapla(){
+          if(this.satis>mudur.PRIM_LIMITI){
+              return CIPLAK_MAASI+
+                      (satis-PRIM_LIMITI)/10;
+          }
+          return CIPLAK_MAASI;
     }
-    public String getSoyad(){
-        return this.soyad;
-    }
-    public void setSoyad(){
-        this.soyad=soyad;
-    }
-    public int getMaas(){
-        return this.maas;
-    }
-    public void setMaas(int maas){
-        this.maas=maas;
+    public String kimimBen(){
+        return "Mudur: ";
     }
 
-    public String getBilgi(){
-        return "Mudur: "+ getAd()+ getSoyad()+", bu ay "+ getMaas()+" ytl alacaktir.";
-    }
 }
