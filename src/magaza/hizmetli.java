@@ -1,35 +1,19 @@
 package magaza;
 
-public class hizmetli {
-    private String ad;
-    private String soyad;
-    private int maas;
-
+public class hizmetli extends calisan {
+    private static final int SAAT_UCRETI = 10;
+    private int mesaiSaati;
     public hizmetli(String ad, String soyad){
-        this.ad=ad;
-        this.soyad=soyad;
-
+        super(ad, soyad);
     }
-    public String getAd(){
-        return this.ad;
+    public void setMesaiSaati(int mesaiSaati) {
+        this.mesaiSaati = mesaiSaati;
     }
-    public void setAd(String ad){
-        this.ad=ad;
+    public int MaasHesapla() {
+        return this.mesaiSaati * hizmetli.SAAT_UCRETI;
     }
-    public String getSoyad(){
-        return this.soyad;
-    }
-    public void setSoyad(){
-        this.soyad=soyad;
-    }
-    public int getMaas(){
-        return this.maas;
-    }
-    public void setMaas(int maas){
-        this.maas=maas;
+    public String kimimBen() {
+        return "Hizmetli";
     }
 
-    public String getBilgi(){
-        return "Hizmetli: "+ this.ad+ this.soyad+", bu ay "+ this.maas+" ytl alacaktir.";
-    }
 }
