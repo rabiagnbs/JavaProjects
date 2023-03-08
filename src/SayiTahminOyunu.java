@@ -1,4 +1,4 @@
-import java.util.Arrays;
+
 import java.util.Random;
 import java.util.Scanner;
 
@@ -16,12 +16,13 @@ public class SayiTahminOyunu {
            Random rand=new Random();
            int number=rand.nextInt(10);
 
+
            System.out.println("lütfen bir sayi giriniz.");
            Scanner input=new Scanner(System.in);
 
 
            int sonuc=0;
-           boolean result =false;
+           boolean result;
 
            while(sonuc != -1){
 
@@ -29,7 +30,7 @@ public class SayiTahminOyunu {
                input.nextLine();
                result =TuttuMu(sayi,number);
 
-               if( result==true){
+               if( result){
                    System.out.println("Sayiyi dogru tahmin ettiniz. Tebrikler!");
                }
                else {
